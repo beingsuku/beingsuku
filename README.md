@@ -1,6 +1,6 @@
 ## Hi there 👋
 This is my 1st repository 
-Author - sakshi redekar alka redekar
+Author - sakshi redekar 
 <!--
 **beingsuku/beingsuku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
