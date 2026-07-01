@@ -19,7 +19,7 @@ C++ Mini Quiz Game — A console-based quiz game built to practice control flow,
 Projects that go beyond syntax — handling real data, errors, and persistence.
 
 
-CLI To-Do List App — Python command-line to-do list with JSON persistence and full error handling (invalid input, missing files, corrupted data).
+CLI To-Do List App (to-do-list.py)— Python command-line to-do list with JSON persistence and full error handling (invalid input, missing files, corrupted data).
 Expense Tracker (in progress) — Python CLI expense tracker using dictionaries, float() input validation, datetime for timestamps, and CSV export.
 Interactive Study Apps (CN / DBMS / OOP) — Three self-contained HTML apps built for exam prep, each with syntax highlighting, real-world analogies, and accordion-style topic breakdowns. Built to learn concepts from scratch, not just revise.
 
