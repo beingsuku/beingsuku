@@ -13,20 +13,20 @@ def load_tasks():
        except FileNotFoundError:
           tasks = []
 def add_task():
-    task= input("Enter a task bae the realistic one!:")
+    task= input("Enter a task ,the realistic one!:")
     tasks.append(task)
     save_tasks()
 
 def view_tasks():
     if not tasks:
-        print("Ahh u forget to add baby just like u forget him! ha ha..")
+        print("You have'nt added a task yet!")
         return 
     for i in range(len(tasks)):
         print(i+1,".",tasks[i])
 
 def remove_task():
     if not tasks:
-        print("Ahh u forget to add baby just like u forget him! ha ha..")
+        print("You have'nt added a task yet!")
         return 
     view_tasks()
     try:
